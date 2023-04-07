@@ -1,4 +1,14 @@
 .App {
-  width: 50%;
-  margin: auto;
+  /* width: 50%; */
+  /* margin: auto; */
+}
+
+
+/* css for qoestion 4 */
+.video-container{
+  display: flex;
+  
+}
+.video-container span{
+  margin: 1rem;
 }
