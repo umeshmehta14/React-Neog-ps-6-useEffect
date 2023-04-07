@@ -5,6 +5,7 @@ import Question3 from './Components/Question3';
 import Question4 from './Components/Question4';
 import Question5 from './Components/Question5';
 import Question6 from './Components/Question6';
+import Question7 from './Components/Question7';
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
       {/* <Question3/> */}
       {/* <Question4/> */}
       {/* <Question5/> */}
-      <Question6/>
+      {/* <Question6/> */}
+      <Question7/>
     </div>
   );
 }
