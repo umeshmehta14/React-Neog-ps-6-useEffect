@@ -83,7 +83,7 @@ const Question4 = () => {
     <>
       <p>{loading && "...Loading"}</p>
       <h1>Playlist</h1>
-      <div className='video-container'>
+      <div className='container'>
         {
             videoData.map(({title, thumbnail , views, likes})=>{
                 return <span>

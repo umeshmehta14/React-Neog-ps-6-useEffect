@@ -5,10 +5,11 @@
 
 
 /* css for qoestion 4 */
-.video-container{
+.container{
   display: flex;
+  flex-wrap: wrap;
   
 }
-.video-container span{
+.container span{
   margin: 1rem;
 }
